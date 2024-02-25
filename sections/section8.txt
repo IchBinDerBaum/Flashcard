@@ -1,0 +1,25 @@
+totus,tota,totum,ganz
+urbs,urbis,f,Stadt
+primus,prima,primum,der erste
+lux,lucis,f,Tageslicht
+convenire,convenio,conventum,zusammenkommen,zusammenpassen
+sperare,spero,speravi,speratum,erhoffen
+exponere,expono,exposi,expositum,ausstellen,aussetzen
+vox,vocis,f,Stimme
+emere,emo,emi,emptum,kaufen
+valere,valeo,valui,gesund sein,Einfluss haben
+vitium,vitii,n,Fehler,schlechte Eigenschaft
+vacare,vaco,vacavi,vacatum,frei sein
+robustus,robusta,robustum,kräftig,stark
+exemplum,exempli,n,Beispiel
+sapientia,sapientiae,f,Weisheit,Verstand
+natus,nata,natum,geboren
+ut,wie
+cuncti,cunctae,cuncta,alle
+aequus,aequa,aequum,gleich,angemessen
+inter,zwischen,unter,während
+servitus,servitutis,f,Sklaverei
+hodie,heute
+bellus,bella,bellum,hübsch,schön
+de,von,von...herab,über
+fortuna,fortunae,f,Schicksal,Glück

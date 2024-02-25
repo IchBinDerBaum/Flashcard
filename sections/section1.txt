@@ -1,0 +1,25 @@
+sol,solis,m,Sonne
+ardere,ardo,arsi,brennen
+silentium,silentii,n,Ruhe,Stille
+esse,sum,fui,sein
+villa,villae,f,Landhaus
+iacere,iaceo,iacui,daliegen
+etiam,auch,sogar
+canis,canis,m,Hund
+tacere,taceo,tacui,schweigen
+asinus,asini,m,Esel
+non iam,nicht mehr
+clamare,clamo,clamavi,clamatum,schreien,rufen
+stare,sto,steti,statum,dastehen
+et,und,auch
+exspectare,exspecto,exspectavi,exspectatum,erwarten
+ubi?,wo?
+cur?,warum?
+amica,amicae,f,Freundin
+non,nicht
+venire,venio,veni,ventum,kommen
+cessare,cesso,cessavi,cessatum,zögern
+placere,placeo
+subito,plötzlich
+quis?,wer?
+ecce!,schau!

@@ -1,0 +1,24 @@
+cum,zusammen mit
+in,in,an,auf,während
+forum,fori,n,Forum,Marktplatz
+ambulare,ambulo,ambulavi,ambulatum,spazieren gehen
+nihil,nichts
+iucundus,iucunda,iucundum,angenehm,liebenswürdig
+itaque,deshalb,daher
+voluptas,voluptatis,f,Vergnügen,Spaß
+amare,amo,amavi,amatum,lieben,verliebt sein
+num?,etwa?
+aqua,aquae,f,Wasser
+currere,curro,cururri,cursum,laufen,eilen
+primo,zuerst,zunächst
+manere,maneo,mansi,bleiben,erwarten
+oculus,oculi,m,Auge
+sine,ohne
+mens,mentis,f,Geist,Bewusstsein
+unus,una,unum,ein,ein einziger
+medicus,medici,m,Arzt
+nonne?,denn nicht?, etwa nicht?
+iterum,wieder
+spectare,specto,spectavi,spectatum,anschauen,betrachten
+portare,porto,portavi,portatum,tragen,bringen
+mortuus,mortua,mortuum,tot,gestorben

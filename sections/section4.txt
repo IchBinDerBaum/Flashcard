@@ -1,0 +1,25 @@
+intrare,intro,intravi,intratum,eintreten,betreten
+homo,hominis,m,Mensch,Mann
+sedere,sedeo,sedidi,seditum,sitzen
+diu,lange
+spectaculum,spectaculi,n,Schauspiel,Veranstaltung
+consul,consulis,m,Konsul
+senator,senatoris,m,Senator
+avus,avi,m,Großvater
+videre,video,vidi,visum,sehen
+ave!,sei gegrüßt!
+populus,populi,m,Volk,Publikum
+verbum,verbi,n,Wort
+simulacrum,simulacri,n,Bild
+deus,dei,m,Gott
+dea,deae,f,Göttin
+regina,reginae,f,Königin
+amor,amoris,m,Liebe
+tandem,schließlich,endlich
+signum,signi,n,Zeichen
+dare,do,deti,datum,geben
+incitare,incito,incitavi,incitatum,antreiben
+ardor,ardoris,m,Hitze,Begeisterung
+clamor,clamoris,m,Schrei,Ruf
+furoro,furoris,m,Toben,Wahnsinn
+cogitare,cogito,cogitavi,cogitatum,denken,nachdenken

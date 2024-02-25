@@ -1,0 +1,24 @@
+tempestas,tempestatis,f,Sturm
+caelum,caeli,n,Himmel
+cadere,cado,cecidi,fallen,sinken
+hora,horae,f,Stunde
+oppidum,oppidi,n,Stadt
+iter,itineris,n,Weg,Reise
+longus,longa,longum,lang
+paratus,parata,paratum,bereit
+scire,scio,scivi,scitum,wissen,verstehen
+consistere,consisto,cconstiti,stehen bleiben
+arbor,arboris,f,Baum
+via,viae,f,Weg,Straße
+modo,gerade,nur
+frangere,frango,fregi,fractum,zerbrechen
+offendere,offendo,offendi,offensum,beleidigen
+tollere,tollo,sustuli,sublatum,hochheben,beseitigen,vernichten
+ponere,pno,posui,positum,setzen,stellen,legen
+vix,kaum
+sentire,sentio,sensi,sensum,fühlen,merken
+curare,suro,curavi,curatum,sorgen,sich kümmern
+aperire,aperio,aperui,apertum,öffnen,aufdecken
+surgere,surgo,surrexi,surrectum,aufstehen,sich erheben
+mox,bald
+haud,nicht

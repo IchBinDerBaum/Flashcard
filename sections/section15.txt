@@ -1,0 +1,26 @@
+vester,vestra,vestrum,euer
+noster,nostra,nostrum,unser
+gravis,gravismgrave,schwer,ernst
+tuus,tua,tuum,dein
+pro,vor,für,anstelle
+se,sich,mit sich,bei sich
+facilis,facilis,facile,leicht
+se praebere,sich zeigen
+acer,acris,acre,heftig,hart
+arcessere,arcesso,arcessivi,herbeirufen,holen
+brevis,brevis,breve,kurz
+tempus,temporis,n,Zeit,Zeitpunkt
+felix,felicis,glücklich
+suus,sua,suum,sein,ihr
+meus,mea,meum,mein
+iudicium,iudicii,n,Urteil,Gericht
+omnis,omnis,omne,jeder,ganz,alle
+forma,formae,f,Gestalt,Schönheit
+vindicare,vindico,vindicavi,vindicatum,beanspruchen
+iuvenis,iuvenis,m,der junge Mann
+iudicare,iudico,iudicavi,iudicatum,beurteilen
+animus,animi,m,Herz,Sinn,Mut,Geist
+conciliare,concilio,conciliavi,conciliatum,gewinnen,vermitteln
+regnum,regni,n,Königreich,Königsherrschaft
+promittere,promitto,promisi,promissum,versprechen
+mortalis,mortalis,mortale,sterblich

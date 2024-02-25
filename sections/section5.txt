@@ -1,0 +1,26 @@
+ante,vor
+ludere,ludo,lusi,lusum,spielen
+semper,immer
+pater,patris,m,Vater
+patronus,patroni,m,Anwalt,Schirmherr
+causa,causae,f,Grund,Prozess
+dicere,dico,dixi,dictum,sagen,sprechen
+dum,während
+epistula,epistulae,f,Brief
+legere,lego,legi,lectum,lesen
+nox,noctis,f,Nacht
+iudex,iudicis,m,Richter
+dormire,dormio,dormivi,dormitum,schlafen
+invadere,invado,invasi,invasum,eindringen,angreifen
+sumere,sumo,sumpsi,sumptum,nehmen
+decedere,decedo,decessi,decessum,weggehen
+accurrere,accurro,acuri,accursum,herbeirufen
+dominus,domini,m,Hausherr
+domina,dominae,f,Hausherrin
+fur,furis,m,Dieb
+quaerere,quaero,quaesivi,quasitum,suchen,fragen
+reus,rei,m,Angeklagte
+fuga,fugae,f,Flucht
+solere,soleo,solitus sum,gewohnt sein
+orator,oratoris,m,Redner
+plaudere,plaudo,plausi,plausum,Beifall klatschen

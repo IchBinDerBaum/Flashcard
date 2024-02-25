@@ -1,0 +1,25 @@
+cura,curae,f,Sorge,Sorgfalt
+sollicitare,sollicito,sollicitavi,sollicitatum,beunruhigen
+tam,so
+cognoscere,cognosco,cognovi,cognitum,erfahren,erkennen,kennenlernen
+scribere,scribo,scripsi,scriptum,schreiben
+adversus,adversa,adversum,ungünstig
+quare?,weshalb?,wodurch?
+nomen,nominis,n,Name
+una,zusammen,gemeinsam
+mare,maris,n,Meer
+altus,alta,altum,hoch,tief
+vis,f,Gewalt,Kraft,Menge
+opprimere,opprimo,oppressi,oppressum,überfallen,unterdrücken
+aut,oder
+deinde,dann,darauf
+vendere,vendo,vendidi,venditum,verkaufen
+nos,wir,uns
+numquam,niemals
+inhumanus,inhumana,inhumanum,unmenschlich
+situs,sita,situm,gelegen
+sustinere,sustineo,sustinui,sustinitum,aushalten,ertragen
+vos,ihr,euch
+reducere,reduco,reduxi,reductum,zurückführen,zurückbringen
+patria,patriae,f,Vaterland,Heimat
+vale,leb wohl

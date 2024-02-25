@@ -1,0 +1,25 @@
+navis,navis,f,Schiff
+laetus,laeta,laetum,froh
+ad,zu,zu...hin,an,bei
+terra,terrae,f,Erde,Land
+novus,nova,novum,neu
+maestus,maesta,maestum,traurig
+ventus,venti,m,Wind
+secundus,secunda,secundum,der zweite,der folgende,günstig
+nauta,nauta,m,Seemann
+solus,sola,solum,allein,einzig
+magnus,magna,magnum,groß
+mater,matris,f,Mutter
+pirata,piratae,m,Pirat
+arma,armorum,n,Waffen
+abducere,abduco,abduxi,abductum,wegführen
+femina,feiminae,f,Frau
+defendere,defendo,defensi,defensum,verteidigen,abwehren
+ubique,überall
+auxilium,auxilii,n,Hilfe
+multi,multae,multa,multum,viele
+pugnare,pugno,pugnavi,pugnatum,kämpfen
+superare,supero,superavi,superatum,besiegen,übertreffen
+alius,alia,aliud,ein anderer
+necare,neco,necavi,necatum,töten
+praecipitare,praecipito,praecipitavi,praecipitatum,hinabstürzen
